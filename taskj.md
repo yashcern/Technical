@@ -201,7 +201,6 @@ from django.urls import reverse
 ````python
 class NewTaskForm(form.form):
    task = forms.CharField(label="New Task") # It create a type bar with label "New Task"
-   priority = forms.IntegerField(label="Priority", min_value=1, max_value=10)
 ````
 Now define a function with the name "index" in Python
 
