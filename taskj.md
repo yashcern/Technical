@@ -96,7 +96,7 @@ from django.urls import path
 
 from . import views
 
-app_name = "tasks"    # To prevent from name space colision if you have multiple applications inside one Django projrct
+app_name = "tasks"    # To prevent from name space colision if in case you have multiple applications inside one Django projrct
 
 urlpatterns = [
     path("", views.index, name= "index")
