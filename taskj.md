@@ -12,6 +12,9 @@
 ### **1. Installing the Dependencies**
 1. [Python](https://www.python.org/downloads/) 
 1. Code Editor. (any of your choice)
+   1. [Vscode](https://code.visualstudio.com/).
+   1. [Sublime Text](https://www.sublimetext.com/3).
+   1. [Atom](https://atom.io/).     
 1. Django framework for building dynamic web applications.
 
 You can use "pip" the python package manager to install Django using the command line interface easily.
