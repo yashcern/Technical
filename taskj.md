@@ -41,10 +41,10 @@ Open this  "task"  directory or folder in your code editor and you will see pre-
     1. To create an app inside the project.
 
 2. ``setting.py`` - Contain important configurations - preloaded with a couple of default settings. You might want to make some modifications to how the application behaves.
-3. ``urls.py`` - Table of contents for our web application that has the number of different URLs or routes that you can visit.
+3. ``urls.py`` - Table of contents for your web application that has the number of different URLs or routes that you can visit.
 ***
 ### **3. Create an application**
-To do this can run a command in your CLI with application "name"
+To do this you can run a command in your CLI with application "name"
 ````
 python manage.py startapp taskmannager
 ````
