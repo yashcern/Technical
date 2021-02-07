@@ -10,6 +10,7 @@
 1. Markup language.
 ***
 ### **1. Installing the Dependencies**
+1. [Python](https://www.python.org/downloads/) 
 1. Code Editor. (any of your choice)
 1. Django framework for building dynamic web applications.
 
