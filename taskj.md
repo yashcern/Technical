@@ -263,7 +263,7 @@ Now Let's add a task and click on Submit
 
 Now you can see one entity added to your task list
 
-![a](https://github.com/yashcern/img/blob/image/z8.jpg)
+![a](https://user-images.githubusercontent.com/68737803/107150602-843b2400-6984-11eb-83f1-171d01db1b01.jpg)
 
 You now have your Task Manager web application currently running on your local computer.
 
