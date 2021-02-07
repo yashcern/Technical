@@ -71,7 +71,7 @@ Scroll down into the ``seting.py`` you will see a variable called INSTALLED_APPs
 
 Now type the name of your application which is "taskmannager" inside the square brackets.
 
-![GO](https://user-images.githubusercontent.com/68737803/107151795-80120500-698a-11eb-892f-e1690561b5fb.png"Added taskmannager at line 34")
+![GO](q1.svg")
 
 Notice the line "34" in the above figure.
 You successfully added your app to this particular project.
@@ -84,7 +84,7 @@ Now "taskmannager" is an installed app on this particular project.
 ### **5. Create URL configuration**
 To do this You need to go into the "task" directory and look at ``urls.py`` (for the entire project).
 
-![a]https://user-images.githubusercontent.com/68737803/107151818-a9cb2c00-698a-11eb-9428-2a8f5ee75508.png)
+![a]z2.svg)
 
 1. Add "include" you can see at line 17.
 2. This  is the table of contents for Your entire web application you can see at line 21 under the variable urlpattern 
@@ -130,7 +130,7 @@ Now create HTML files with names as:
 1. add.html
 1. layout.html
 
-![a](https://user-images.githubusercontent.com/68737803/107151756-548f1a80-698a-11eb-9089-ce0f4608e17d.png)
+![a](z3.svg)
 
 Now in the **``layout.html``** type inside the body 
 ````HTML
@@ -183,7 +183,7 @@ Now in the ``add.html`` Type:
 ### **7. Creating a View**
 To do this go into the "taskmannager" directory and look at ``views.py`` inside your taskmannager app
 
-![a](https://user-images.githubusercontent.com/68737803/107151726-0da12500-698a-11eb-9337-1aab528b2f94.png)
+![a](z1.svg)
 
 In order to create a view you need to import some python modules then define a class and then define functions.
 
