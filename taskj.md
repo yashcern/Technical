@@ -259,7 +259,7 @@ Initially your tasks list is Empty!
 
 Now Let's add a task and click on Submit
 
-![a](z7.jpg)
+![a](https://user-images.githubusercontent.com/68737803/107150706-34109180-6985-11eb-85f3-ec47abf25c1b.jpg)
 
 Now you can see one entity added to your task list
 
