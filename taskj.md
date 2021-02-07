@@ -255,7 +255,7 @@ Initially your tasks list is Empty!
 
 
 
-![a](z6.jpg)
+![a](https://user-images.githubusercontent.com/68737803/107150869-ef392a80-6985-11eb-8cd6-aa50670762c2.jpg)
 
 Now Let's add a task and click on Submit
 
