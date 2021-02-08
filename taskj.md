@@ -257,11 +257,11 @@ Initially your tasks list is Empty!
 
 ![a](https://user-images.githubusercontent.com/68737803/107150869-ef392a80-6985-11eb-8cd6-aa50670762c2.jpg)
 
-Now Let's add a task and click on Submit
+Now Let's add a task and click on Submit. ⬇️
 
 ![a](https://user-images.githubusercontent.com/68737803/107150706-34109180-6985-11eb-85f3-ec47abf25c1b.jpg)
 
-Now you can see one entity added to your task list
+Now you can see one entity added to your task list. ⬇️
 
 ![a](https://user-images.githubusercontent.com/68737803/107150602-843b2400-6984-11eb-83f1-171d01db1b01.jpg)
 
