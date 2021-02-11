@@ -1,7 +1,7 @@
 # **Task Manager Web application using Django Framework**
 
 ### **About Project**
-1. TaskMannager is a web-based application that can add store your task in an unordered list.
+1. TaskMannager a web-based application that can add store your task in an unordered list.
 2. You are going to use the basic features of the Django framework to build this web application.
 ### **Prerequisite**
 1. Python.
