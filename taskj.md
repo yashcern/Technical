@@ -104,7 +104,7 @@ urlpatterns = [
 ]
 ````
 ***
-### **6. Create HTML files.
+### **6. Create HTML files.**
 To do this go to the task directory and create a folder named "templates" then create again a folder named "tasks" inside the "templates". Now create "HTML" files inside it.
 
 >(folder)task -> (folder)tempelates -> (folder)tasks -> (file)HTML
